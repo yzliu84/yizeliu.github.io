@@ -33,7 +33,7 @@ $~~~~$Contact me by email <strong>yizeliu@stanford.edu</strong>.<br />
     <div style="display: flex; align-items: center;">
       <!-- 右侧的图像部分 -->
       <div>
-        <img src="images/stanford.png" alt="STF Logo" width="50">
+        <img src="images/stanford.png" alt="STF Logo" width="30">
       </div>
 
       <!-- 左侧的文本部分 -->
