@@ -16,11 +16,12 @@ $~~~~$I am currently a research assistant at <strong>State Key Laboratory of Bra
 
 $~~~~$My research interest lies in <strong>Integrate circuits architecture, AI hardware/software codesign</strong>, <strong>Neuromorphic computing</strong> and <strong>Nanotechnology</strong>.<br />
 
-$~~~~$Contact me by email <strong>henryL@zju.edu.cn</strong>.<br />
+$~~~~$Contact me by email <strong>yizeliu@stanford.edu</strong>.<br />
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 A manuscript was accepted by Science Advances!
+- *2025.05*: &nbsp;🎉🎉 A paper was online at Neuromorphic Computing and Engineering!
+- *2025.02*: &nbsp;🎉🎉 A paper was online at Science Advances!
 - *2024.10*: &nbsp;🎉🎉 I won the First Place award in Student Research Competition @ICCAD 2024！
 - *2024.10*: &nbsp;🎉🎉 I was supported by the ICCAD 2024 Student Scholar Program！
 - *2024.07*: &nbsp;🎉🎉 A manuscript was accepted by ICCAD(SRC) 2024. 
