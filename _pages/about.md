@@ -109,7 +109,7 @@ Find this paper at Science Advances [Website](https://www.science.org/doi/10.112
 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Advances</div><img src='images/nec.png' alt="sym" width="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NCE</div><img src='images/nce.png' alt="sym" width="300"></div></div>
 <div class='paper-box-text' markdown="1">
   
 <div style="color:#00008B; font-weight: bold;">
@@ -122,7 +122,7 @@ Neuromorphic Computing and Engineering, 5 024013
 Find this paper at Neuromorphic Computing and Engineering [Website](https://iopscience.iop.org/article/10.1088/2634-4386/add9c0).
 
 </div>
-
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/lsmtu3.svg' alt="sym" width="300"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -135,7 +135,7 @@ Find this paper at Neuromorphic Computing and Engineering [Website](https://iops
 
 **2024 ACM/IEEE International Conference on Computer-Aided Design**, Student Research Competition
 </div>
-
+</div>
 
 # 🎖 Honors and Awards
 - *2024.12* Yuelun Scholarship.
