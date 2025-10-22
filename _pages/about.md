@@ -109,6 +109,19 @@ Find this paper at Science Advances [Website](https://www.science.org/doi/10.112
 
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Advances</div><img src='images/nec.png' alt="sym" width="300"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+<div style="color:#00008B; font-weight: bold;">
+    Variation-resilient Spike-timing-dependent Plasticity in Memristors Using Bursting Neuron Circuit
+</div>
+**<u> Yize Liu </u>**, Jiayi Zhao, Yu Xiao, Peng Chen\*, Haisong Chen, Enhui He, Peng Lin\* and Gang Pan\*
+
+Neuromorphic Computing and Engineering, 5 024013
+
+Find this paper at Neuromorphic Computing and Engineering [Website](https://iopscience.iop.org/article/10.1088/2634-4386/add9c0).
+
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/lsmtu3.svg' alt="sym" width="300"></div></div>
@@ -122,15 +135,7 @@ Find this paper at Science Advances [Website](https://www.science.org/doi/10.112
 
 **2024 ACM/IEEE International Conference on Computer-Aided Design**, Student Research Competition
 </div>
-</div>
 
-
-<div style="color:#00008B; font-weight: bold;">
-    Variation-resilient Spike-timing-dependent Plasticity in Memristors Using Bursting Neuron Circuit
-</div>
-Yize Liu, Jiayi Zhao, Yu Xiao, Peng Chen\*, Haisong Chen, Enhui He, Peng Lin\* and Gang Pan\*
-
-Under review
 
 # 🎖 Honors and Awards
 - *2024.12* Yuelun Scholarship.
