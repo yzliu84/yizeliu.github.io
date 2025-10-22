@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
+    
+  - title: "Research Experience"
+    url: "/#-educations"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Research Projects"
+    url: "/#research-projects"
+
+  - title: "Extracurricular Project"
+    url: "/#-internships"
