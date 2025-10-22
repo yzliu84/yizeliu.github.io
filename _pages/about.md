@@ -28,6 +28,21 @@ $~~~~$Contact me by email <strong>henryL@zju.edu.cn</strong>.<br />
 
 # 📖 Research Experiences
 <ul>
+  <li>
+    <div style="display: flex; align-items: center;">
+      <!-- 右侧的图像部分 -->
+      <div>
+        <img src="images/stanford.png" alt="STF Logo" width="50">
+      </div>
+
+      <!-- 左侧的文本部分 -->
+      <div style="flex-grow: 1; margin-left: 10px;">
+        <strong>Sept. 2025 -- Present, Brain in Silicon, Stanford University</strong>, CA, US<br>
+        <em>Research Assistant</em>, supervised by Prof. Kwabena Boahen
+      </div>
+    </div>
+  </li>
+  <br />
    <li>
     <div style="display: flex; align-items: center;">
       <!-- 右侧的图像部分 -->
@@ -37,7 +52,7 @@ $~~~~$Contact me by email <strong>henryL@zju.edu.cn</strong>.<br />
 
       <!-- 左侧的文本部分 -->
       <div style="flex-grow: 1; margin-left: 10px;">
-        <strong>Jun. 2023 -- Present, State Key Laboratory of Brain-Machine Intelligence</strong>, Hangzhou, China<br>
+        <strong>Jun. 2023 -- Jun. 2025, State Key Laboratory of Brain-Machine Intelligence</strong>, Hangzhou, China<br>
         <em>Research Assistant</em>, supervised by Prof. Peng Lin
       </div>
     </div>
