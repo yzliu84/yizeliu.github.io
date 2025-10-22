@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yize Liu"
-description              : "Electrical Engineering undergraduate student \"2025\""
+title                    : "Henry Y. Liu"
+description              : "Electrical Engineering PhD student \"2025\""
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yize Liu(刘毅泽)"
+  name             : "Henry Y. Liu(刘毅泽)"
   avatar           : "images/head2.png"
-  bio              : "Zhejiang University"
-  location         : "Zhejiang, China"
+  bio              : "Stanford University"
+  location         : "Palo Alto, CA, US"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=0HDMzH0AAAAJ"
-  email            : "yzliu84@outlook.com"
+  email            : "yizeliu@stanford.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
