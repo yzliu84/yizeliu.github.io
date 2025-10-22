@@ -10,11 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-$~~~~$I am a senior year undergraduate student majoring in <strong>Electronic Science and Technology</strong> in College of Information Science & Electronic Engineering and minoring in <strong>Intensive Training Program of Innovation and Entrepreneurship</strong> in Chu Kochen Honors College(honor), <strong>Zhejiang University</strong>. <br />
+$~~~~$I am a PhD student majoring in ELectrical Engineering at <strong>Stanford University</strong>. <br />
 
-$~~~~$I am currently a research assistant at <strong>State Key Laboratory of Brain-Machine Intelligence</strong> in Hangzhou, China, supervised by <strong>[Prof. Peng Lin](https://person.zju.edu.cn/en/linpeng)</strong>. Before that, I was honored to be a visiting student at <strong>Massachusetts Institute of Technology(MIT)</strong> and research assistant in <strong>Media Lab</strong>, supervised by <strong>[Prof. Deblina Sarkar](https://web.mit.edu/deblina-sarkar/)</strong>. I am also advised by <strong>[Prof. Liang Zhao](https://www.linkedin.com/in/liang-leon-zhao-9ba97023/)</strong> and [Prof. Xunzhao Yin](https://person.zju.edu.cn/en/xunzhaoyin) previously.<br />
+$~~~~$I got my BS at Zhejiang University, majoring in <strong>Electronic Science and Technology</strong> in College of Information Science & Electronic Engineering and minoring in <strong>Intensive Training Program of Innovation and Entrepreneurship</strong> in Chu Kochen Honors College(honor). <br />
 
-$~~~~$My research interest lies in <strong>Integrate circuits architecture, AI hardware/software codesign</strong>, <strong>Neuromorphic computing</strong> and <strong>Nanotechnology</strong>.<br />
+$~~~~$I am currently a rotating research assistant, supervised by [Prof. Kwabena Boahen](https://profiles.stanford.edu/kwabena-boahen). Before that, I worked at <strong>State Key Laboratory of Brain-Machine Intelligence</strong> in Hangzhou, China, supervised by <strong>[Prof. Peng Lin](https://person.zju.edu.cn/en/linpeng)</strong>. And I was honored to be a visiting student at <strong>Massachusetts Institute of Technology(MIT)</strong> and research assistant in <strong>Media Lab</strong>, supervised by <strong>[Prof. Deblina Sarkar](https://web.mit.edu/deblina-sarkar/)</strong>. I am also advised by <strong>[Prof. Liang Zhao](https://www.linkedin.com/in/liang-leon-zhao-9ba97023/)</strong> and [Prof. Xunzhao Yin](https://person.zju.edu.cn/en/xunzhaoyin) previously.<br />
+
+$~~~~$My research interest lies in <strong>Integrate circuits architecture, AI hardware/software codesign</strong>, <strong>Neuromorphic computing</strong> and <strong>3D Nanotechnology</strong>.<br />
 
 $~~~~$Contact me by email <strong>yizeliu@stanford.edu</strong>.<br />
 
