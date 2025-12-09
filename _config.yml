@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yize Liu"
-description              : "Electrical Engineering PhD student \"2025\""
+description              : "PhD student in Electrical Engineering"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yize (Henry) Liu (刘毅泽)"
+  name             : "Yize Liu 刘毅泽"
   avatar           : "images/head2.png"
   bio              : "Stanford University"
   location         : "Palo Alto, CA, US"
