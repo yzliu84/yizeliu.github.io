@@ -14,7 +14,7 @@ $~~~~$I am a PhD student majoring in ELectrical Engineering at <strong>Stanford 
 
 $~~~~$I got my BS at Zhejiang University, majoring in <strong>Electronic Science and Technology</strong> in College of Information Science & Electronic Engineering and minoring in <strong>Intensive Training Program of Innovation and Entrepreneurship</strong> in Chu Kochen Honors College(honor). <br />
 
-$~~~~$I am currently a rotating research assistant, supervised by [Prof. Kwabena Boahen](https://profiles.stanford.edu/kwabena-boahen). Before that, I worked at <strong>State Key Laboratory of Brain-Machine Intelligence</strong> in Hangzhou, China, supervised by <strong>[Prof. Peng Lin](https://person.zju.edu.cn/en/linpeng)</strong>. And I was honored to be a visiting student at <strong>Massachusetts Institute of Technology(MIT)</strong> and research assistant in <strong>Media Lab</strong>, supervised by <strong>[Prof. Deblina Sarkar](https://web.mit.edu/deblina-sarkar/)</strong>. I am also advised by <strong>Prof. Liang Zhao</strong> previously.<br />
+$~~~~$I am currently a rotating research assistant, supervised by [Prof. Subhasish Mitra](https://profiles.stanford.edu/subhasish-mitra). Before that, I worked at <strong>State Key Laboratory of Brain-Machine Intelligence</strong> in Hangzhou, China, supervised by <strong>[Prof. Peng Lin](https://person.zju.edu.cn/en/linpeng)</strong>. And I was honored to be a visiting student at <strong>Massachusetts Institute of Technology(MIT)</strong> and research assistant in <strong>Media Lab</strong>, supervised by <strong>[Prof. Deblina Sarkar](https://web.mit.edu/deblina-sarkar/)</strong>. I am also advised by <strong>Prof. Liang Zhao</strong> previously.<br />
 
 $~~~~$My research interest lies in <strong>Integrate circuits architecture, AI hardware/software codesign</strong>, <strong>Neuromorphic computing</strong> and <strong>3D Nanotechnology</strong>.<br />
 
@@ -29,6 +29,54 @@ $~~~~$Contact me by email <strong>yizeliu@stanford.edu</strong>.<br />
 - *2024.07*: &nbsp;🎉🎉 A manuscript was accepted by ICCAD(SRC) 2024. 
 - *2024.07*: &nbsp;I started to work at MIT media lab!
 
+# 🏫 Education Experiences
+<ul>
+  <li>
+    <div style="display: flex; align-items: center;">
+      <!-- 右侧的图像部分 -->
+      <div>
+        <img src="images/SU_Seal_Red.png" alt="STF Logo" width="50">
+      </div>
+
+      <!-- 左侧的文本部分 -->
+      <div style="flex-grow: 1; margin-left: 10px;">
+        <strong>Sept. 2025 -- Present, Stanford University</strong>, CA, US<br>
+        <em>PhD Student</em>
+      </div>
+    </div>
+  </li>
+  <br />
+  <li>
+    <div style="display: flex; align-items: center;">
+      <!-- 右侧的图像部分 -->
+      <div>
+        <img src="images/ZJU.png" alt="ZJU Logo" width="50">
+      </div>
+
+      <!-- 左侧的文本部分 -->
+      <div style="flex-grow: 1; margin-left: 10px;">
+        <strong>Sept. 2021 -- Jun. 2025, Zhejiang University</strong>, Hangzhou, China<br>
+        <em>Bachlor of Engineering</em>
+      </div>
+    </div>
+  </li>
+  <br />
+  <li>
+    <div style="display: flex; align-items: center;">
+      <!-- 右侧的图像部分 -->
+      <div>
+        <img src="images/chu.png" alt="CHU" width="50">
+      </div>
+
+      <!-- 左侧的文本部分 -->
+      <div style="flex-grow: 1; margin-left: 10px;">
+        <strong>Sept. 2022 -- Jun. 2025, Chu Kochen Honors College, Zhejiang University</strong>, Hangzhou, China<br>
+        <em>Minor in Intensive Training Program of Innovation and Entrepreneurship</em>
+      </div>
+    </div>
+  </li>
+  <br />
+</ul>
 # 📖 Research Experiences
 <ul>
   <li>
@@ -169,49 +217,6 @@ Find this paper at Neuromorphic Computing and Engineering [Website](https://iops
 
 
 
-# 🔬 Research Projects
-
-I aim to draw inspiration from the human brain, specifically its neuronal connections, operational modes, and interactions between functional regions, to create a 'silicon brain.' My goal is to develop a stable, robust, low-power and large-scale hardware-software system modeled after the human brain to achieve general artificial intelligence. This includes, but is not limited to, leveraging spiking neural networks, CMOS technology, and novel neuromorphic devices such as RRAM, ECRAM, and FeFET. Furthermore, I aspire to integrate this system with biological elements, enabling advancements in neural regulation, brain-computer interfaces, robots control and a deeper understanding of the brain's functional principles.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIT Media Lab</div><img src='images/MB.jpg' alt="sym" width="280"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<div style="color:#00008B; font-weight: bold;">
-    Scalable and Releasable Microbattery Array for Microrobot and Chip Applications
-</div>
-This project focuses on developing a CMOS-compatible, large-scale microbattery array with the smallest recorded dimensions to date. This battery array is designed to enable synchronized charging and discharging across the array and can be released from the wafer. In the future, it may be used for applications such as bio-neural stimulation, powering microrobots, and supplying power to compact sensor circuits.
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sta. Key Lab. of BMI </div><img src='images/chip.jpg' alt="sym" width="280"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<div style="color:#00008B; font-weight: bold;">
-    Reconfigurable Complex Bio-plausible Spiking Neuron Chip
-</div>
-This chip integrates hundreds of reconfigurable complex silicon neuron circuits, designed based on TSMC CMOS process, can generate various complex neuron charging and discharging and pulse behaviors, and is highly configurable. I am using this chip to implement on-chip pulse neural networks, including simulating the learning mode of the brain, and building a highly integrated neuromorphic system with other new devices to achieve fast and low-power computing. This chip can also highly simulate biological neuron behavior, and is expected to achieve brain-machine integration and neural regulation.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Zhejiang Uni.</div><img src='images/rram.jpg' alt="sym" width="280"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<div style="color:#00008B; font-weight: bold;">
-   In-memory Integrated Accelerator Based on Novel Memristors.
-</div>
-This project utilizes non-volatile memory devices such as RRAM and FeFETs, exploiting their variable resistance characteristics that mimic neural synapses, to develop large-scale neural network accelerators with both computing and storage functions. These accelerators target applications including, but not limited to, deep artificial neural networks (ANN), spiking neural networks (SNN), and other edge computing applications. Key research areas include high-throughput architecture design, control and read/write methods, and on-chip training techniques tailored to memristors.
-</div>
-</div>
-
-# 🎭 Extracurricular Projects
-Still building...
-
-<div style="text-align: center;">
-  <div class="map-container" style="width: 500px; margin: 0 auto;">
-    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=00508d&w=a&t=n&d=fpRwPZGVmUyfZYB0X79YKZgraC2Xd88xITIplzf5kjk&co=ffffff&cmo=ebe300&cmn=0ccc0c'></script>
-  </div>
-</div>
 
