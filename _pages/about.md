@@ -113,7 +113,7 @@ $~~~~$Contact me by email <strong>yizeliu@stanford.edu</strong>.<br />
     <div style="display: flex; align-items: center;">
       <!-- 右侧的图像部分 -->
       <div>
-        <img src="images/zju_logo.png" alt="ZJU Logo" width="50">
+        <img src="images/ZJU.png" alt="ZJU Logo" width="50">
       </div>
 
       <!-- 左侧的文本部分 -->
@@ -143,7 +143,7 @@ $~~~~$Contact me by email <strong>yizeliu@stanford.edu</strong>.<br />
     <div style="display: flex; align-items: center;">
       <!-- 右侧的图像部分 -->
       <div>
-        <img src="images/zju_logo.png" alt="ZJU Logo" width="50">
+        <img src="images/ZJU.png" alt="ZJU Logo" width="50">
       </div>
 
       <!-- 左侧的文本部分 -->
