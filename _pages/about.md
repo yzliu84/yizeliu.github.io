@@ -35,12 +35,27 @@ $~~~~$Contact me by email <strong>yizeliu@stanford.edu</strong>.<br />
     <div style="display: flex; align-items: center;">
       <!-- 右侧的图像部分 -->
       <div>
-        <img src="images/stanford.png" alt="STF Logo" width="30">
+        <img src="images/SU_Seal_Red.png" alt="STF Logo" width="50">
       </div>
 
       <!-- 左侧的文本部分 -->
       <div style="flex-grow: 1; margin-left: 10px;">
-        <strong>Sept. 2025 -- Present, Brain in Silicon, Stanford University</strong>, CA, US<br>
+        <strong>Nov. 2025 -- Present, Robust Systems Group, Stanford University</strong>, CA, US<br>
+        <em>Research Assistant</em>, supervised by Prof. Subhasish Mitra
+      </div>
+    </div>
+  </li>
+  <br />
+  <li>
+    <div style="display: flex; align-items: center;">
+      <!-- 右侧的图像部分 -->
+      <div>
+        <img src="images/SU_Seal_Red.png" alt="STF Logo" width="50">
+      </div>
+
+      <!-- 左侧的文本部分 -->
+      <div style="flex-grow: 1; margin-left: 10px;">
+        <strong>Sept. 2025 -- Nov. 2025, Brain in Silicon, Stanford University</strong>, CA, US<br>
         <em>Research Assistant</em>, supervised by Prof. Kwabena Boahen
       </div>
     </div>
