@@ -75,8 +75,8 @@ $~~~~$Contact me by email <strong>yizeliu@stanford.edu</strong>.<br />
       </div>
     </div>
   </li>
-  <br />
 </ul>
+
 # 📖 Research Experiences
 <ul>
   <li>
