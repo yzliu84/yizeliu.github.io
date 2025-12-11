@@ -218,5 +218,9 @@ Find this paper at Neuromorphic Computing and Engineering [Website](https://iops
 
 
 
-
+<div style="text-align: center;">
+  <div class="map-container" style="width: 500px; margin: 0 auto;">
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=00508d&w=a&t=n&d=fpRwPZGVmUyfZYB0X79YKZgraC2Xd88xITIplzf5kjk&co=ffffff&cmo=ebe300&cmn=0ccc0c'></script>
+  </div>
+</div>
 
