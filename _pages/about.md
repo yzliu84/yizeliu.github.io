@@ -21,13 +21,6 @@ $~~~~$My research interest lies in <strong>Integrate circuits architecture, AI h
 $~~~~$Contact me by email <strong>yizeliu@stanford.edu</strong>.<br />
 
 
-# 🔥 News
-- *2025.05*: &nbsp;🎉🎉 A paper was online at Neuromorphic Computing and Engineering!
-- *2025.02*: &nbsp;🎉🎉 A paper was online at Science Advances!
-- *2024.10*: &nbsp;🎉🎉 I won the First Place award in Student Research Competition @ICCAD 2024！
-- *2024.10*: &nbsp;🎉🎉 I was supported by the ICCAD 2024 Student Scholar Program！
-- *2024.07*: &nbsp;🎉🎉 A manuscript was accepted by ICCAD(SRC) 2024. 
-- *2024.07*: &nbsp;I started to work at MIT media lab!
 
 # 🏫 Education Experiences
 <ul>
