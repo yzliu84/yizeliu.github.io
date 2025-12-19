@@ -14,7 +14,7 @@ $~~~~$I am a PhD student majoring in ELectrical Engineering at <strong>Stanford 
 
 $~~~~$I got my BS at Zhejiang University, majoring in <strong>Electronic Science and Technology</strong> in College of Information Science & Electronic Engineering and minoring in <strong>Intensive Training Program of Innovation and Entrepreneurship</strong> in Chu Kochen Honors College(honor). <br />
 
-$~~~~$I am currently a rotating research assistant, supervised by [Prof. Subhasish Mitra](https://profiles.stanford.edu/subhasish-mitra). Before that, I worked at <strong>State Key Laboratory of Brain-Machine Intelligence</strong> in Hangzhou, China, supervised by <strong>[Prof. Peng Lin](https://person.zju.edu.cn/en/linpeng)</strong>. And I was honored to be a visiting student at <strong>Massachusetts Institute of Technology(MIT)</strong> and research assistant in <strong>Media Lab</strong>, supervised by <strong>[Prof. Deblina Sarkar](https://web.mit.edu/deblina-sarkar/)</strong>. I am also advised by <strong>Prof. Liang Zhao</strong> previously.<br />
+$~~~~$I am currently a rotating research assistant, supervised by <strong>[Prof. Subhasish Mitra](https://profiles.stanford.edu/subhasish-mitra)</strong>. Before that, I worked at <strong>State Key Laboratory of Brain-Machine Intelligence</strong> in Hangzhou, China, supervised by <strong>[Prof. Peng Lin](https://person.zju.edu.cn/en/linpeng)</strong>. And I was honored to be a visiting student at <strong>Massachusetts Institute of Technology(MIT)</strong> and research assistant in <strong>Media Lab</strong>, supervised by <strong>[Prof. Deblina Sarkar](https://web.mit.edu/deblina-sarkar/)</strong>. I am also advised by <strong>Prof. Liang Zhao</strong> previously.<br />
 
 $~~~~$My research interest lies in <strong>Integrate circuits architecture, AI hardware/software codesign</strong>, <strong>Neuromorphic computing</strong> and <strong>3D Nanotechnology</strong>.<br />
 
@@ -142,7 +142,7 @@ $~~~~$Contact me by email <strong>yizeliu@stanford.edu</strong>.<br />
       <!-- 左侧的文本部分 -->
       <div style="flex-grow: 1; margin-left: 10px;">
         <strong>Jan. 2023 -- Jan. 2024, Institute of Integrated Circuit Pilot Technology,  Zhejiang University</strong>, Hangzhou, China<br>
-        <em>Research Assistant</em>, supervised by Prof. Liang Zhao and Prof. Xunzhao Yin
+        <em>Research Assistant</em>, supervised by Prof. Liang Zhao
       </div>
     </div>
   </li>
