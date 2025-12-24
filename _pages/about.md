@@ -82,7 +82,7 @@ $~~~~$Contact me by email <strong>yizeliu@stanford.edu</strong>.<br />
       <!-- 左侧的文本部分 -->
       <div style="flex-grow: 1; margin-left: 10px;">
         <strong>Nov. 2025 -- Present, Robust Systems Group, Stanford University</strong>, CA, US<br>
-        <em>Research Assistant</em>, supervised by Prof. [Subhasish Mitra](https://profiles.stanford.edu/subhasish-mitra)
+        <em>Research Assistant</em>, supervised by Prof. Subhasish Mitra
       </div>
     </div>
   </li>
@@ -97,7 +97,7 @@ $~~~~$Contact me by email <strong>yizeliu@stanford.edu</strong>.<br />
       <!-- 左侧的文本部分 -->
       <div style="flex-grow: 1; margin-left: 10px;">
         <strong>Sept. 2025 -- Nov. 2025, Brain in Silicon, Stanford University</strong>, CA, US<br>
-        <em>Research Assistant</em>, supervised by Prof. [Kwabena Boahen](https://profiles.stanford.edu/kwabena-boahen)
+        <em>Research Assistant</em>, supervised by Prof. Kwabena Boahen
       </div>
     </div>
   </li>
@@ -112,7 +112,7 @@ $~~~~$Contact me by email <strong>yizeliu@stanford.edu</strong>.<br />
       <!-- 左侧的文本部分 -->
       <div style="flex-grow: 1; margin-left: 10px;">
         <strong>Jun. 2023 -- Jun. 2025, State Key Laboratory of Brain-Machine Intelligence</strong>, Hangzhou, China<br>
-        <em>Research Assistant</em>, supervised by Prof. [Peng Lin](https://person.zju.edu.cn/en/linpeng)
+        <em>Research Assistant</em>, supervised by Prof. Peng Lin
       </div>
     </div>
   </li>
@@ -127,7 +127,7 @@ $~~~~$Contact me by email <strong>yizeliu@stanford.edu</strong>.<br />
       <!-- 左侧的文本部分 -->
       <div style="flex-grow: 1; margin-left: 10px;">
         <strong>Jun. 2024 -- Dec. 2024, Media Lab,  Massachusetts Institute of Technology</strong>,  Cambridge, MA, US<br>
-        <em>Research Assistant</em>, supervised by Prof. [Deblina Sarkar](https://web.mit.edu/deblina-sarkar/)
+        <em>Research Assistant</em>, supervised by Prof. Deblina Sarkar
       </div>
     </div>
   </li>
